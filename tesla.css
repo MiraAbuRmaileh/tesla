@@ -36,6 +36,7 @@
   /* OVERALL CSS */
   .first-page
    {
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/5a7b3001-249f-4065-a330-4ea6a17ccf7b/bvlatuR/std/2560x1708/Model-3-Main-Hero-Desktop-LHD");
     background-position: center;
     background-size: 50% 50%;
     background-repeat: no-repeat;
@@ -62,9 +63,9 @@
     font-family: "lightFont";
   }
   
-  .first-page {
+  /* .first-page {
     background-image: url("/appleSeedsCss/appleSeedsCss/TeslaProject/TIMG/Model-3-Main-Hero-Desktop-LHD.jpg");
-  }
+  } */
   
   /* NAV */
   
